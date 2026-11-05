@@ -1,0 +1,8 @@
+{
+  "name": "PayDirect - Custom Payment Portal & Method Switcher",
+  "description": "Direct peer-to-peer payment portal with instant behind-the-scenes payment method rotation, payment link generator, and secure admin control without gateway fees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
